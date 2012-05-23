@@ -1,0 +1,36 @@
+# Mac OS
+thumbs.db
+.DS_Store
+.localized
+# textmate
+*.tmproj
+*.tmproject
+.rspec-tm
+tmtags
+# vi
+*.swp
+# emacs
+*~
+\#*
+.\#*
+# yardoc
+.yardoc
+# CodeIgniter
+system/logs/
+# Eclipse
+.settings
+.metadata
+.project
+*.pydevproject
+Servers
+bin/*
+target/*
+.springBeans
+# Netbeans
+build
+dist
+private
+# SVN
+.svn
+# rvm
+.rvmrc
