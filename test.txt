@@ -1,1 +1,2 @@
-hogehogehogo
+hoge
+foo
